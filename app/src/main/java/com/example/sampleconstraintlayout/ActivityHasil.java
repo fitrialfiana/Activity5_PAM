@@ -33,10 +33,10 @@ public class ActivityHasil extends AppCompatActivity {
         String pass = bundle.getString("b");
 
         //menampilkan value dari variabel email kedalam txEmail
-        txEmail.setText (email);
+        txEmail.setText(email);
 
         //menampilkan value dart variabel pass kedalam txPassword
-        txPassword.setText (pass);
+        txPassword.setText(pass);
 
 
     }
