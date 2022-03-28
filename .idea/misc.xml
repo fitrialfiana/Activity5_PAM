@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_class_nama.xml" value="0.1" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_daftar.xml" value="0.33" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_hasil.xml" value="0.18" />
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_home.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_kedua.xml" value="0.12" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_ketiga.xml" value="0.18" />
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_lihat_data.xml" value="0.25" />
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_list_view_adapter.xml" value="0.1" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/layout/item_listview.xml" value="0.1" />
         <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/fiezi/AndroidStudioProjects/SampleConstraintLayout2/app/src/main/res/menu/popup_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
